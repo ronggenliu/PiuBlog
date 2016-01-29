@@ -12,8 +12,6 @@
 *~.nib
 local.properties
 .classpath
-.settings/**
-.loadpath
 
 ######################
 # Gradle
@@ -25,8 +23,6 @@ local.properties
 ######################
 /build/**
 /bin/**
-/spring_loaded/**
-/deploy/**
 
 ######################
 # Others
