@@ -1,0 +1,14 @@
+spring:
+  devtools:
+    restart:
+      enabled: true
+      
+  thymeleaf:
+    cache: false
+    
+  jade4j:
+    caching: false
+    
+security:
+  basic:
+    enabled: false

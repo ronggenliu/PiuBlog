@@ -1,0 +1,41 @@
+######################
+# Eclipse
+######################
+.project
+.metadata
+/bin/**
+/tmp/**
+/tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/**
+.loadpath
+
+######################
+# Gradle
+######################
+.gradle/**
+
+######################
+# Directories
+######################
+/build/**
+/bin/**
+/spring_loaded/**
+/deploy/**
+
+######################
+# Others
+######################
+*.class
+*.*~
+*~
+
+######################
+# Logs
+######################
+*.log
