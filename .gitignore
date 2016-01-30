@@ -12,6 +12,8 @@
 *~.nib
 local.properties
 .classpath
+.settings/**
+.loadpath
 
 ######################
 # Gradle
@@ -28,6 +30,9 @@ local.properties
 # Others
 ######################
 *.class
+*.jar
+*.war
+*.ear
 *.*~
 *~
 
